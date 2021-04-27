@@ -93,9 +93,9 @@ p{
 }
 .contain{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    border-bottom:5.5px;
+    /*border-bottom:5.5px;
     border-bottom-style: solid;
-    border-bottom-color: $nav;
+    border-bottom-color: $nav;*/
 }
 h2{
     margin:0;
@@ -128,6 +128,7 @@ h2{
 .my-image{
     margin-top:30px;
     padding-top:90px;
+    padding-right:40px;
 }
 .my-image img{
     max-width:80%;
