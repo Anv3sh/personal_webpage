@@ -237,13 +237,13 @@ ul {
     width:120px;
     height:40px;
     color:$text;
+    border-radius: 4px;
     padding:0;
     font-size: 15px;
-    transition-duration: 0.5s;
+    transition-duration: 0.25s;
     &:hover{
         background-color: #e84a7a;
         color: #383838;
-        font-weight: bolder;
     }
 }
 /*
