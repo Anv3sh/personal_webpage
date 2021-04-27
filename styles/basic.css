@@ -45,6 +45,7 @@ header {
   position: fixed;
   width: 100%;
   top: 0;
+  z-index: 9999;
 }
 
 .intro {
@@ -129,18 +130,43 @@ h2 {
   padding-bottom: 30px;
 }
 
+.about h2 {
+  border: 0;
+  border-bottom: 2px;
+  border-style: solid;
+  border-color: #e84a7a;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+
+.about-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+
 .about span {
   color: #e84a7a;
 }
 
+.my-image {
+  margin-top: 30px;
+  padding-top: 105px;
+}
+
+.my-image img {
+  max-width: 70%;
+  max-height: 100%;
+}
+
 .text {
-  border-top: 2px;
-  border-top-style: solid;
-  border-top-color: #e84a7a;
   margin-top: 30px;
   padding-top: 50px;
   margin-left: 130px;
-  margin-right: 130px;
 }
 
 #ab2 {
