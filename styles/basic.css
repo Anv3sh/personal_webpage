@@ -264,47 +264,41 @@ ul {
   font-weight: bolder;
 }
 
-#fname1 {
-  padding-left: 22px;
+/*
+#fname1{
+    padding-left:22px;
 }
-
-#fname2 {
-  padding-left: 3px;
+#fname2{
+    padding-left:3px;
 }
-
-#lname1 {
-  margin-left: 0px;
-  padding-left: 22px;
+#lname1{
+    margin-left:0px;
+    padding-left:22px;
 }
-
-#lname2 {
-  margin-right: 75px;
+#lname2{
+    margin-right:75px;
 }
-
-#email1 {
-  margin-left: 6.5px;
-  padding-right: 35px;
-  padding-left: 16px;
+#email1{
+    margin-left:6.5px;
+    padding-right:35px;
+    padding-left:16px;
+    
 }
-
-#email2 {
-  padding-left: 3px;
-  padding-right: 10px;
-  margin-right: 1px;
-  margin-left: 1px;
+#email2{
+    padding-left:3px;
+    padding-right:10px;
+    margin-right:1px;
+    margin-left:1px;
 }
-
-#phone1 {
-  margin-left: 0px;
-  padding-left: 11px;
+#phone1{
+    margin-left:0px;
+    padding-left:11px;
 }
-
-#phone2 {
-  margin-left: 4px;
-  padding-left: 2px;
-  margin-right: 75px;
-}
-
+#phone2{
+    margin-left:4px;
+    padding-left:2px;
+    margin-right:75px;
+}*/
 .social {
   margin-top: 40px;
   display: -webkit-box;
