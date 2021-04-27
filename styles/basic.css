@@ -131,6 +131,7 @@ h2 {
 }
 
 .about h2 {
+  padding-bottom: 30px;
   border: 0;
   border-bottom: 2px;
   border-style: solid;
@@ -155,17 +156,19 @@ h2 {
 
 .my-image {
   margin-top: 30px;
-  padding-top: 90px;
+  padding-top: 100px;
   padding-right: 40px;
 }
 
 .my-image img {
-  max-width: 80%;
+  max-width: 75%;
   max-height: 100%;
   border: #e84a7a;
-  border-width: 6px;
+  border-width: 4px;
   border-style: solid;
-  border-radius: 30px;
+  border-radius: 300px;
+  -webkit-filter: opacity(86%);
+          filter: opacity(86%);
 }
 
 .text {
